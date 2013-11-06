@@ -1,0 +1,20 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+#block {
+	width: 960px;
+	margin: 0 auto;
+}
+ul {
+	position: relative;
+}
+li {
+	position: absolute;
+	padding: 10px;
+	border: 1px solid #ddd;
+	list-style: none;
+}
+img {
+	width: 200px;
+}
